@@ -1,7 +1,6 @@
 
-[Euler Project Problem 1 (Multiples of 3 and 5)](http://projecteuler.net/problem=1)
+-- [Euler Project Problem 1 (Multiples of 3 and 5)](http://projecteuler.net/problem=1)
 
-\begin{code}
 module Main where
 
 nmuls :: Integral n => n -> n -> n
@@ -21,4 +20,3 @@ sum15s = summation (15,15,nmuls maxb 15)
 main :: IO ()
 main = print answer
   where  answer = sum3s + sum5s - sum15s
-\end{code}
