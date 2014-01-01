@@ -1,5 +1,5 @@
 
--- [Euler Project Problem 1 (Multiples of 3 and 5)](http://projecteuler.net/problem=1)
+-- Euler Project Problem 1 (Multiples of 3 and 5)
 
 module Main where
 
