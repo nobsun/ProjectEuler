@@ -1,5 +1,5 @@
 
--- Euler Project Problem 7 ()
+-- Euler Project Problem 7 (10001st prime)
 
 module Main where
 
